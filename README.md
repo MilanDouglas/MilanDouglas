@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MilanDouglas
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning cs50
+- 👋 Hi, My name is Douglas
+- 👀 I’m interested in learning and working on projects.
+- 🌱 I’m currently learning I.T (Python coding)
 - 💞️ I’m looking to collaborate on any projects where my help is needed so I can learn more in return.
 - 📫 How to reach malandouglas@gmail.com
 
