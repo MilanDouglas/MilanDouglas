@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Douglas
 - 👀 I’m interested in learning and working on projects.
-- 🌱 I’m currently learning I.T (Python coding)
-- 💞️ I’m looking to collaborate on any projects where my help is needed so I can learn more in return.
+- 🌱 I'm very much interested in A.I and Business
+- 💞️ I’m looking to collaborate on any projects where my help is needed so I can learn and grow.
 - 📫 How to reach malandouglas@gmail.com
 
 <!---
